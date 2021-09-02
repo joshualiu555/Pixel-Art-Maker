@@ -5,6 +5,8 @@ Features: 16 colors, pencil, eraser, trashcan, square, line, bucket, undo / redo
 
 Language: Python and Pygame
 
+[Link to Project](https://replit.com/@joshualiu555/Pixel-Art-Maker#main.py)
+
 [Inspired by pixilart](https://www.pixilart.com)
 
 ![14:31:58](https://user-images.githubusercontent.com/53412192/120903395-8435f280-c60b-11eb-951d-b96d30303164.png)
